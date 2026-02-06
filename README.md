@@ -1,16 +1,23 @@
-## Hi there 👋
+# Abraham Lendechy
 
-<!--
-**AbrahamLendechy/AbrahamLendechy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building reliable and maintainable systems.
 
-Here are some ideas to get you started:
+I value clear design, readable code, and solutions that scale with time.
+Most of my work revolves around backend development and system fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I focus on
+- Backend services and API design
+- Writing clean, testable, and maintainable code
+- Designing systems with long-term clarity in mind
+
+## Tech Stack
+- Languages: Go, Python, JavaScript
+- Backend: REST APIs
+- Databases: PostgreSQL
+- Tools: Git, Docker, Linux
+
+## Availability
+Working hours: Flexible (GMT+7)
+
+---
+Less complexity. More clarity.
